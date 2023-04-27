@@ -1,0 +1,141 @@
+.my-bookings-container-user{
+  width: 1450px;
+  height: 100vh;
+  box-shadow: 0px 10px 10px 0px;
+  margin-left: 180px;
+  margin-top: 20px;
+  padding-top: 25px;
+  border: 1px solid grey;
+  background-color: white;
+}
+.my-box {
+  max-width: 1300px;
+  height: 700px;
+  margin-left: 200px;
+  padding-top: 20px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  margin-top: 70px;
+}
+
+.div-1 {
+  max-width: 1350px;
+  height: 180px;
+  border: 1px solid black;
+  display: flex;
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+
+.one-div {
+  max-width: 200px;
+  height: 180px;
+  border: 1px solid gray;
+}
+
+.one-div img {
+  width: 200px;
+  height: 160px;
+}
+
+.two-div {
+  min-width: 250px;
+  height: 180px;
+  border: 1px solid gray;
+  padding: 0px 5px;
+  /* overflow-y: hidden; */
+}
+
+.three-div {
+  min-width: 400px;
+  height: 180px;
+  border: 1px solid gray;
+  /* padding: 5px 5px; */
+}
+
+.mini-3rd-div {
+  display: flex;
+  gap: 20px;
+  padding: 5px 5px;
+}
+
+.mini-3rd-div-img {
+  width: 150px;
+  height: 80px;
+}
+
+.four-div {
+  min-width: 250px;
+  height: 180px;
+  border: 1px solid gray;
+}
+
+.mini-four-div {
+  /* width: 150px; */
+  display: flex;
+  gap: 30px;
+  padding: 5px 5px;
+}
+
+.five-div {
+  min-width: 70px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 1190px;
+}
+
+.edit-btn {
+  /* position: relative;
+  top: 100px;
+  left: 18px;
+  padding: 10px;
+  width: 60px;;
+  cursor: pointer; */
+  position: absolute;
+  top: 90px;
+  left: 50px;
+  width: 100px;
+  height: 47px;
+  border: 1px solid #007fed;
+  border-radius: 34px;
+  opacity: 1;
+}
+
+.canceled-btn1 {
+  /* position: relative;
+  top: 130px;
+  left: 18px;
+  width: 60px;
+  cursor: pointer;
+  height: 45px; */
+  position: absolute;
+  top: 160px;
+  left: 50px;
+  width: 100px;
+  height: 47px;
+  border: 1px solid #007fed;
+  border-radius: 34px;
+  opacity: 1;
+}
+
+h5 {
+  position: relative;
+  bottom: 70px;
+}
+
+.cardetails {
+  position: relative;
+  bottom: 80px;
+}
+
+.five-div {
+  position: relative;
+  bottom: 75px;
+  left: -15px;
+}
+
+iframe {
+  height: 160px;
+  width: 160px;
+}
